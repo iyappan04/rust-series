@@ -1,0 +1,1 @@
+wc writen in rust.
