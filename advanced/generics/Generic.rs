@@ -1,4 +1,4 @@
-// use custom datatype's, and reduce code redundancy 
+// use allows us to define custom datatype's, and reduce code redundancy 
 
 struct Person<T: Car> {
     name: String,
